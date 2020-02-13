@@ -1,4 +1,4 @@
-# geonames-postal-codes
+# geonames-postal-codes-geocoordinates
 
 The data is from geonames.
 
