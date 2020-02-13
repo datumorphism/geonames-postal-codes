@@ -1,6 +1,6 @@
 import pandas as pd
 
-all_countries_file = "~/Downloads/all_countries.txt"
+all_countries_file = "allCountries.txt"
 
 df = pd.read_csv(all_countries_file, sep="\t")
 
