@@ -1,0 +1,1 @@
+# geonames-postal-codes
