@@ -17,7 +17,7 @@ data:
         description: latitude of the postal code
       - name: longitude
         description: longitude of the postal code
-  - path: geonames_timezone.json
+  - path: postal_codes_and_coordinates.json
     format: json
     size: 69M
     updated_at: "2020-02-13"
