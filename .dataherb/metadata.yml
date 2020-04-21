@@ -4,7 +4,7 @@ contributors:
   - name: Datumorphism
     github: datumorphism
 data:
-  - path: postal_codes_and_coordinates.csv
+  - path: dataset/postal_codes_and_coordinates.csv
     format: csv
     size: 23M
     updated_at: "2020-04-20"
@@ -17,7 +17,7 @@ data:
         description: latitude of the postal code
       - name: longitude
         description: longitude of the postal code
-  - path: postal_codes_and_coordinates.json
+  - path: dataset/postal_codes_and_coordinates.json
     format: json
     size: 69M
     updated_at: "2020-04-20"
